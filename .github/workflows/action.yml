@@ -1,6 +1,7 @@
 name: 同步任务
 
 on: 
+  workflow_dispatch:
   push:
   gollum: 
   schedule: 
