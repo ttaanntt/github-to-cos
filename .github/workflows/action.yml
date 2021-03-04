@@ -1,11 +1,7 @@
 name: 同步任务
 
 on: 
-  workflow_dispatch:
-  watch:
-    types: started
   push:
-    branches: [ main ]
   gollum: 
   schedule: 
       - cron: '10 */6 * * *'
