@@ -9,8 +9,8 @@ var SECRET_KEY = ''
 var scripts = []
 
 var gallyJson = [{
-    json: "https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json",
-    cdn: "https://jdsharedresourcescdn.azureedge.net/jdresource"
+    json: "https://hub.docker.com/r/lxk0301/jd_scripts",
+    cdn: "https://hub.docker.com/r/lxk0301/jd_scripts"
 }]
 
 
